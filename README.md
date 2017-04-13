@@ -7,7 +7,7 @@
   - Bonus
     - Spot Bonus
   - Equity
-    - ESPP
+    - Employee Stock Purchase Program
   - Overtime
   - On Call
 - Work Format
@@ -16,6 +16,10 @@
     - Remote
     - Office Space
     - Commuter Benefits
+      - Parking
+        - Electric Vehicle Charging
+      - Public Transportation
+      - Ride Share
 - Time Off
   - Vacation
   - Sick Leave
