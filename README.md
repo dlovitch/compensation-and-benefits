@@ -21,6 +21,7 @@
       - Public Transportation
       - Ride Share
 - Time Off
+  - Company Holidays
   - Vacation
   - Sick Leave
   - Parental Leave
