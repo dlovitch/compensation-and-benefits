@@ -5,8 +5,11 @@
       - Market Adjustment
       - Promotion
   - Bonus
+    - Signing
     - Spot Bonus
   - Equity
+    - Options
+      - Vesting
     - Employee Stock Purchase Program
   - Overtime
   - On Call
@@ -28,16 +31,28 @@
   - Bereavement Leave
 - Retirement
   - 401K
+    - Matching
+    - Vesting
   - Pension
 - Equity
   - Vesting Schedule
 - Health
   - Medical
+    - Copays
+    - Deductible
+    - Network
+    - HSA
+    - FSA
   - Dental
   - Vision
+  - Life insurance
+    - AD&D
+  - Do these extend to family?
 - Education
   - Training
+  - Tuition
   - Conferences
+  - eBook library membership
 - Tools
   - Mobile Phone
   - Computer
