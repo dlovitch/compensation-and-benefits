@@ -56,6 +56,3 @@
 - Tools
   - Mobile Phone
   - Computer
-- Transportation
-  - Parking
-  - Bus pass
