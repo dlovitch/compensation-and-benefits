@@ -48,6 +48,7 @@
   - Vision
   - Life insurance
     - Accidental Death and Dismemberment (AD&D) Insurance
+  - Disability
   - Do these extend to family?
 - Education
   - Training
