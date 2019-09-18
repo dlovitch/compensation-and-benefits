@@ -49,6 +49,8 @@
   - Life insurance
     - Accidental Death and Dismemberment (AD&D) Insurance
   - Disability
+    - Short Term Disability
+    - Long Term Disability
   - Do these extend to family?
 - Education
   - Training
