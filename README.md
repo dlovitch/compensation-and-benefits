@@ -27,7 +27,7 @@
 - Time Off
   - Company Holidays
   - Vacation
-    - Do I accrue time that I can take with me when I leave? Or do I have "unlimited" vacation that vanishes at the end of my employment?
+    - Accrued time vs untracked/"unlimited"
   - Sick Leave
   - Parental Leave
   - Bereavement Leave
