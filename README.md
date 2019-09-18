@@ -15,9 +15,10 @@
   - On Call
 - Work Format
   - Hours and Flexibility
+    - Work From Home
   - Location
-    - Remote
-    - Office Space
+    - Office Location
+    - Fully Remote
     - Commuter Benefits
       - Parking
         - Electric Vehicle Charging
@@ -60,6 +61,8 @@
 - Tools
   - Mobile Phone
   - Computer
+  - Workspace
+    - Shared Desk vs Desk vs Cubicle vs Office
 
 ## See also
 
