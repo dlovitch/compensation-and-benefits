@@ -22,7 +22,7 @@
       - Parking
         - Electric Vehicle Charging
       - Public Transportation
-      - Ride Share
+      - Ride Share
 - Time Off
   - Company Holidays
   - Vacation
