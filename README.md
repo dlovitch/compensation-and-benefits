@@ -7,9 +7,15 @@
   - Bonus
     - Signing
     - Spot Bonus
+    - Annual bonus program
+    - Referral bonus program
   - Equity
     - Options
-      - Vesting
+      - Vesting schedule
+      - Equity pool (fully diluted)
+      - Refresh grants
+      - Vesting triggers
+      - Exercise window on departure from company
     - Employee Stock Purchase Program
   - Overtime
   - On Call
@@ -33,11 +39,11 @@
   - Bereavement Leave
 - Retirement
   - 401K
+    - Elibility date
     - Matching
     - Vesting
+    - After-tax contributions
   - Pension
-- Equity
-  - Vesting Schedule
 - Health
   - Medical
     - Copays
